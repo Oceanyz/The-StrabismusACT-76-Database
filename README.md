@@ -6,7 +6,7 @@ Fig. 1 The prototype equipment of the VIOMA, which is settled in a custom-made b
 
 The StrabismusACT-76 database consists of videos of automatic cover tests (unilateral cover test and alternating covere test)and corresponding clinical diagnoses of strabismus for 76 subjects, as well as the video labeling ground truth. Six (6.6%) had heterotropia, sixty-six (86.8%) had heterophoria, and 6 (6.6%) were orthophoric. Among the heterotropia subjects, 80% were diagnosed as exotropia while 20% were esotropia. Among the heterophoria subjects, 76% were diagnosed as exophoria while 24% were esophoria. Exo-deviation was the majority in both heterotropia and heterophoria cases.
 
-The videos were recorded by our developed VIOMA platform, and each subject has two videos in .avi format, organized as PXX_01.avi and Pxx_02.avi. Here example videos of one subject are given to show the experimental scenario and the protocol of cover tests. Note that the subject in this video is not an experimental sample, but a staff member in this project.
+The videos were recorded by our developed VIOMA platform, and each subject has two videos in .avi format, organized as PXX_01.avi and Pxx_02.avi. Due to GitHub file size limitations, the video can be accessed via https://pan.baidu.com/s/1rtjXXO0xMWeL1NcidgwHIA code: a68t. Here example videos of one subject are given to show the experimental scenario and the protocol of cover tests. Note that the subject in this video is not an experimental sample, but a staff member in this project.
 
 If you want to use the database before the article is published, please contact by hfu@eduhk.hk or zhengy@xidian.edu.cn, and cite the following articles:
 
